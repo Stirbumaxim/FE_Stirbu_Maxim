@@ -1,0 +1,76 @@
+h1{
+    text-align: center;
+}
+
+.div1{
+    background-color: rgb(58, 192, 56);
+    border: 1px solid black;
+}
+
+.judo{
+    width: 250px;
+}
+
+.subdiv1{
+    margin-left: 15px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+
+}
+
+
+
+
+
+.div2{
+    border: 1px solid black;
+    background-color: rgb(58, 43, 226);
+    margin-top: 15px;
+}
+
+.work{
+    width: 250px;
+}
+
+.subdiv2{
+    margin-left: 15px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+
+.div3{
+    border: 1px solid black;
+    background-color: rgb(207, 34, 22);
+    margin-top: 15px;
+}
+.friends{
+    width: 250px;
+}
+
+.subdiv3{
+    margin-left: 15px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+
+
+
+.lololo{
+    border: 1px solid rgb(0, 0, 0);
+    margin-top: 15px;
+    text-align: center;
+}
+
+.facebook{
+width: 40px;
+}
+
+.instagram{
+    width: 40px;
+}
+
+
+
+

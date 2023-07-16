@@ -1,0 +1,35 @@
+.div1{
+
+   height: 300px;
+   width: auto;
+   background-color: rgb(241, 192, 150);
+   border: 3px red solid;
+   
+}
+h3{
+   text-align: center;
+}
+
+
+.piano{
+   width: 200px;
+   margin-left: 15px;
+}
+.piano1{
+   margin-left: 15px ;
+}
+
+.hobby1{
+   margin: 15px 15px 15px 15px ;
+}
+
+.div2{
+   border: 3px solid rgb(0, 21, 255);
+   background-color: rgb(104, 186, 234);
+   height: 300px;
+   width: auto;
+   margin: 20px 0px 0px;
+}
+.workplace{
+   width: 200px;
+}
