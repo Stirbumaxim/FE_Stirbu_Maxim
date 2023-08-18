@@ -1,56 +1,43 @@
-// console.log("Homework_Maxim_Stirbu_160523evening");
-
-// -------------------------------------------
-
-// let d = 7;
-// console.log(d);
-// console.log(d*d);
-// console.log(d*d*d);
-
-// ------------------------------------------------
-
-// let num1 = Number(prompt("Enter your num"));
-// if (num1>0) {
-//     alert(num1 *2);
+// console.log("Start");
+// for (let i = 0; i < 10 ; i++) {
+//     console.log(i);
 // }
-// else{
-//     alert("Your number is not positive");
+// console.log("Finish");
+
+//---------------------------------------------------------------------
+
+// for (let i = 0; i < 100 ; i++) {
+//     if ( i % 5 ===0 && i % 3===0 ) {
+//         console.log(i);
+//     }    
 // }
 
-//-------------------------------------------------
+//----------------------------------------------------------------------
 
-// let a = Number(prompt("Enter your firt number"));
-// let b = Number(prompt("Enter your second number"));
-
-// if (a>b) {
-//     alert(a+b);
-// } 
-// if (a===b ) {
-//     alert("Numbers are identical");
-// }
-// else{
-//     alert(a*b);
+// var masiv = [5,45,11,35,15,29,19,56,11,2,4,6,9];
+// for (let index = 0; index < masiv.length; index++) {
+//     if (masiv[index]>=15 ) {
+//         console.log(masiv[index]);
+//     }
 // }
 
-// --------------------------------------------------
+//-------------------------------------------------------------------------
 
-// let a = Number(prompt("Enter your number"));
-// if (a<0) {
-// alert(a*a);
-// } else {
-//     alert("Error");
+// var masiv = [5,45,11,35,15,29,19,56,11,2,4,6,9];
+// for (let index = 0; index < masiv.length; index++) {
+//         if (masiv[index] % 2 ===0 ) {
+//             }else{
+//                 console.log(masiv[index]);
+//             }
+//     }
+
+//------------------------------------------------------------------------
+
+// var array = [5,45,11,35,15,30,29,19,56,11,2,4,6,9];
+// for (let i = 0; i < array.length; i++) {
+//    if ( i % 3===0 ) {
+//     console.log(array[i]);
+//    }   
 // }
 
-// ---------------------------------------------------
-
-// let a = Number(prompt("How many stundent are in class?"));
-// let b = Number(prompt("How many chairs are in class?"));
-// if (a<=b) {
-//     alert("Everybody have a chair");
-// } else {
-//     alert("There are not enough chairs");
-// }
-
-// ----------------------------------------------------
-    
 
